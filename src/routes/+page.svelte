@@ -1,20 +1,28 @@
 <div class="w-full bg-primary min-h-[256px] grid grid-rows-[64px,auto,64px]">
 	<div class="row-start-2">
 		<div class="container mx-auto">	
-				<nav aria-label="Breadcrumb" class="!mb-24">
-					<ol class="Breadcrumb flex gap-8 md:gap-16 items-center">
-					<li class="text-grey-75 font-sans hover:underline active:underline">
-						<a href="copa.com">Inicio</a>
-					</li>
-					<li class="text-grey-75 font-sans">›</li>
-					<li class="text-grey-75 font-sans hover:underline active:underline">
-						<a href="destinationsguide.copaair.com/en/deals">Promociones</a>
-					</li>
-					</ol>
-				</nav>
-                <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md mb-8">Un <span class="text-secondary">Cyber Monday</span> lleno de ofertas</h1>	
-                <h2 class=" font-sans text-18/24 text-grey-100 max-w-prose">¡Mantente atento  y no te pierdas de un Cyber Monday lleno de tarifas para viajar a uno de nuestros destinos Copa!</h2>
-
+            <div class="flex justify-between">
+                <div> 
+                    <nav aria-label="Breadcrumb" class="!mb-24">
+                        <ol class="Breadcrumb flex gap-8 md:gap-16 items-center">
+                        <li class="text-grey-75 font-sans hover:underline active:underline">
+                            <a href="https://www.copaair.com/es">Inicio</a>
+                        </li>
+                        <li class="text-grey-75 font-sans">›</li>
+                        <li class="text-grey-75 font-sans hover:underline active:underline">
+                            <a href="destinationsguide.copaair.com/en/deals">Promociones</a>
+                        </li>
+                        </ol>
+                    </nav>
+                    <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md mb-8">Un <span class="text-secondary">Cyber Monday</span> lleno de ofertas</h1>	
+                    <h2 class=" font-sans text-18/24 text-grey-100 max-w-prose">¡Porque un solo día de <strong><span class="text-secondary">Cyber Monday</span></strong> no es suficiente para nuestras ofertas! Prepárate para un viaje hacia el destino de tus sueños con <strong><span class="text-secondary">Cyber Week</span></strong>, una semana completa de descuentos para que viajes a tu ciudad favorita
+                    </h2>
+                </div>
+            
+                <div class="sm:hidden md:block">
+                    <img class="md:w-[341px] lg:w-[270px] " src="https://www.copaair.com/promotions/destinations/img/neon-cyber-week-es.png" alt="" srcset="">
+                </div>
+            </div>
             </div>
 	</div>
 </div>
@@ -44,4 +52,29 @@
             
         </div>             
     </div>
+</div>
+
+
+
+
+
+<div class="w-full bg-primary min-h-[256px] grid grid-rows-[64px,auto,64px]">
+	<div class="row-start-2">
+		<div class="container mx-auto">	
+				<nav aria-label="Breadcrumb" class="!mb-24">
+					<ol class="Breadcrumb flex gap-8 md:gap-16 items-center">
+					<li class="text-grey-75 font-sans hover:underline active:underline">
+						<a href="copa.com">Inicio</a>
+					</li>
+					<li class="text-grey-75 font-sans">›</li>
+					<li class="text-grey-75 font-sans hover:underline active:underline">
+						<a href="destinationsguide.copaair.com/en/deals">Promociones</a>
+					</li>
+					</ol>
+				</nav>
+                <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md mb-8">Un <span class="text-secondary">Cyber Monday</span> lleno de ofertas</h1>	
+                <h2 class=" font-sans text-18/24 text-grey-100 max-w-prose">¡Mantente atento  y no te pierdas de un Cyber Monday lleno de tarifas para viajar a uno de nuestros destinos Copa!</h2>
+
+            </div>
+	</div>
 </div>
